@@ -55,7 +55,7 @@ ignoreErrors = ["additional-script-loading-error"]
     name = "Tags"
     pageRef = "/tags"
     weight = 30
-  [[menus.main]]
-    name = "About"
-    pageRef = "/about"
-    weight = 40
+#  [[menus.main]]
+#    name = "About"
+#    pageRef = "/about"
+#    weight = 40
