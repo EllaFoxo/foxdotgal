@@ -37,7 +37,7 @@ I'll be attending a few events this year. I'll add to this list if more come aro
 **29th - 30th March 2025 - Helsingborg, Sweden**  
 _More info at [3dmeetup.se](https://3dmeetup.se)_
 
-My first time going! I'll be bringing a Voron 0.2r2 with me, travelling on a train across Sweden.
+My first time going! I'll be bringing a Voron 0 with me, travelling on a train across Sweden.
 It's got a secret sauce project stuck to the hotend, which I cannot wait to showcase.
 
 ### Printed World Conference
