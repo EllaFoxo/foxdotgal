@@ -10,7 +10,7 @@ tags:
   - 3D Printing
 ---
 
-Since around 2019, I've been dead-set on learning the skills that 10 year old me once dreamed of figuring out. Back then, I imagined being able to do so much cool stuff. I never quite got the hang of until I was late into my twentys. Life always got in the way, and those aspirations had to be put aside.
+Since around 2019, I've been dead-set on learning the skills that 10 year old me once dreamed of figuring out. Back then, I imagined being able to do so much cool stuff. I never quite got the hang of until I was late into my twenties. Life always got in the way, and those aspirations had to be put aside.
 
 In 2020, Blender's UI took a huge leap forward, and I was finally able to take my first steps into 3D modeling. I sunk my teeth into the sculpting tools, and the Unity game engine, intent on creating VRChat avatars to represent myself during the pandemic. That was a crazy time. In 2022, I returned to 3D printing, having the urge to turn some of those models into physical objects that I could hold in my hand. But as amazing as it is, Blender absolutely sucks for hard surface modeling - especially when it comes to dimensional accuracy.
 
