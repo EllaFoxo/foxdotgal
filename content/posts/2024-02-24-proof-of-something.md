@@ -18,8 +18,6 @@ What with changes in my personal life though, I've been looking to relocate that
 
 Even if things are unpolished or go nowhere, I think there is still value sharing that with the world. Over the years, I've come to figure out that the best way to keep the ball rolling, is to have a little show and tell once in a while. I've come to realize that I gain energy to work on something if someone else is willing to listen. Whilst I don't want to sound cliche _(I'm going to sound cliche)_, it's that burning passion; that little creature inside me with a craving to learn.
 
-Tangentially related, sometimes people ask me who I look up to. Truth be told, I find it hard to keep idols, because I know I can never live up to their achievements. But if I had to name somebody, a huge person for me was probably the late [Sanjay Mortimer](https://www.youtube.com/watch?v=Mm8sz6CB9ys). I wish I got the chance to meet him; I'm gutted that he's no longer with us. I think he would've ignited something inside me. Nonetheless, we keep moving forward. Miss you, Sanjay.
-
 ## The Future
 
 There are some really, really cool things in the works this year, and I cannot wait to share more in-depth.
