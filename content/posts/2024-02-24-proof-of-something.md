@@ -6,8 +6,7 @@ toc: false
 tocOpen: false
 isStarred: true
 tags:
-  - about
-  - 2025
+  - introduction
 ---
 
 ## Hello, world.
