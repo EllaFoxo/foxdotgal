@@ -1,7 +1,7 @@
 ---
 title: Proof of Something
 date: 2025-02-24
-description: "First post."
+description: "Hello, world. It's 2025, and time for something new."
 toc: false
 tocOpen: false
 isStarred: true
