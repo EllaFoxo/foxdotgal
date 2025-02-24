@@ -1,0 +1,61 @@
+title = "Ella Fox"
+baseURL = "https://fox.gal/"
+defaultContentLanguage = "en"
+enableGitInfo = false
+enableEmoji = true
+enableRobotsTXT = false
+ignoreErrors = ["additional-script-loading-error"]
+
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
+
+[params]
+  rssFullContent = true
+  homePagerSize = 5
+  sectionPagerSize = 10
+  images = ["favicon.ico"]
+  defaultColor = "dark"
+  description = "Ella Fox's Project Blog"
+  mainSections = ['posts']
+  goToTop = true
+  dateFormat = "January 2, 2006"
+
+[frontmatter]
+  lastmod = ["lastmod", " =default"]
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+    [markup.tableOfContents]
+      startLevel = 2
+      endLevel = 4
+      ordered = false
+
+[[params.socialIcons]]
+  name = "GitHub"
+  url = "https://github.com/EllaFoxo"
+
+[[params.socialIcons]]
+  name = "RSS"
+  url = "/index.xml"
+
+[menus]
+  [[menus.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 10
+  [[menus.main]]
+    name = "Posts"
+    pageRef = "/posts"
+    weight = 20
+  [[menus.main]]
+    name = "Tags"
+    pageRef = "/tags"
+    weight = 30
+  [[menus.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 40
