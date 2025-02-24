@@ -22,7 +22,7 @@ Even if things are unpolished or go nowhere, I think there is still value sharin
 
 There are some really, really cool things in the works this year, and I cannot wait to share more in-depth.
 
-This year marks a number of 'firsts' in my life that are happening. It'll be the first time I have a project I've done, on a shelf in a store, which people can buy. That still blows my mind. I've been working on it with some absolutely brilliant people in the [Voron Design](https://vorondesign.com) and [Positron](https://www.positron3d.com) community on it. I'll write more about it soon; it's a lot.
+This year marks a number of 'firsts' in my life that are happening. It'll be the first time I have a project I've done, on a shelf in a store, which people can buy. That still blows my mind. I've been working with some absolutely brilliant people in the [Voron Design](https://vorondesign.com) and [Positron](https://www.positron3d.com) community on it. I'll write more about it soon; it's a lot.
 
 Me and my partner just celebrated our first year 'togetherversary', as I like to call it. Later this year, we also hope to be joined by a new fluffy member of the family too. It'll be the first time keeping a pet since living away from birth relatives.
 
